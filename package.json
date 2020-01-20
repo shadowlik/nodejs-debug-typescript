@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-debug-typescript",
+  "version": "1.0.0",
+  "description": "Debug NodeJS com TypeScript usando o Visual Studio Code",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowlik/nodejs-debug-typescript.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "vscode"
+  ],
+  "author": "Henrique Marques Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowlik/nodejs-debug-typescript/issues"
+  },
+  "homepage": "https://github.com/shadowlik/nodejs-debug-typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
